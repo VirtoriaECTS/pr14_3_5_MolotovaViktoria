@@ -1,0 +1,10 @@
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\bin\Debug\OsAlgMolotovaPractica14_3_5.exe.config
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\bin\Debug\OsAlgMolotovaPractica14_3_5.exe
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\bin\Debug\OsAlgMolotovaPractica14_3_5.pdb
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.Form1.resources
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.Properties.Resources.resources
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.exe
+C:\Users\305-2\Desktop\Molotova\OsAlgMolotovaPractica14_3_5\OsAlgMolotovaPractica14_3_5\obj\Debug\OsAlgMolotovaPractica14_3_5.pdb
